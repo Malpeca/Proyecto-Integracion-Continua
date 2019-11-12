@@ -142,14 +142,14 @@
                         <li class="">
                             <a href="index.php">
                                 <i class="fa fa-home"></i>
-                                Inicioooooo
+                                Inicio
                             </a>
                         </li>
 
                         <li class="">
                             <a href="QuienesSomos.php ">
                                 <i class="fa fa-home"></i>
-                                Quienes Somos
+                                ¿Quiénes Somos?
                             </a>
                         </li>
                         <?php if (!empty($_SESSION['usuario'])) { ?> 
@@ -158,7 +158,7 @@
                             <li class="">
                                 <a href="Persona.php" >
                                     <i class="fa fa-users"></i> 
-                                    Gestión Persona
+                                    Gestionar Persona
 
                                 </a>
                             </li> 
@@ -183,7 +183,7 @@
                                     <li>
                                         <a href="VerInmueble.php">
                                             <i class="fa fa-shopping-cart"></i> 
-                                            &nbsp;&nbsp;Administrar Inmuebles
+                                            &nbsp;&nbsp;Administrar Inmueble
                                         </a>
                                     </li>
 
@@ -210,7 +210,7 @@
                                             <li>
                                                 <a href="../www/Reporte/INMUEBLE.php">
                                                     <i class="fa fa-shopping-cart"></i> 
-                                                    &nbsp;&nbsp;Inmuebles Existentes
+                                                    &nbsp;&nbsp;Inmuebles en existencia
                                                 </a>
                                             </li>
                                             <li>
